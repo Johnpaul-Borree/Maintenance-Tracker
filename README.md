@@ -1,1 +1,1 @@
-The maintenance Tracker Application provides users with the ability to reach out to operations or repairs department regarding repair or maintenance requests and monitor the status of their request.
+The maintenance Tracker Application provides users with the ability to reach out to operations or repairs department regarding repair or maintenance requests and monitor the status of their request. So that institutions can monitor breakdown of machines or devices. This is a generic app that can apply for any device/Machine routine maintenance.
